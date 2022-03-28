@@ -1,4 +1,4 @@
-# Gesture volume control
+# Gesture volume control v.2
 In this project I am going to learn how to use Gesture Control to change the volume of a computer. 
 I first look into hand tracking and then I will use the hand landmarks to find gesture of my hand to change the volume.
 
