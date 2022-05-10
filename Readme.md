@@ -13,7 +13,8 @@ Follow the [link](https://github.com/paveldat/gesture_volume_control) to see my 
 1. Clone this repository on your computer
 `https://github.com/paveldat/gesture_volume_control_v2.git`
 2. Install all the requirements
-`run libraries.bat`
+`run libraries.bat` or
+`pip install -r requirements.txt`
 3. Run the program
 `python main.py`
 
